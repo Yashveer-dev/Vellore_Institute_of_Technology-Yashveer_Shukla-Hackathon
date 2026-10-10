@@ -6,6 +6,9 @@
 
 **College / Campus:** Vellore Institute of Technology
 
+**Demo video link:** https://youtu.be/aleGEZMthD0?si=syZkP2O63Hzg1Wrc
+
+
 **1\. Project Overview / Problem Statement & Approach**
 
 Traditional financial risk management systems rely heavily on lagging numerical reporting cycles. Early indicators of liquidity crises, central bank rate shifts, or geopolitical disruptions often emerge first across unstructured channels like breaking news headlines, financial wires, and social media. This latency exposes institutions to unmitigated downside risks.
