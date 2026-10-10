@@ -2,7 +2,7 @@
 
 **Candidate Name:** Yashveer Shukla
 
-**College Email ID:** <yashveer.shukla@vitstudent.ac.in>
+**College Email ID:** <yashveer.24bca7532@vitapstudent.ac.in>
 
 **College / Campus:** Vellore Institute of Technology
 
@@ -41,7 +41,7 @@ Bash
 
 \# 1. Clone the repository
 
-git clone &lt;your-repo-url&gt;
+git clone &lt;https://github.com/Yashveer-dev/Vellore_Institute_of_Technology-Yashveer_Shukla-Hackathon/&gt;
 
 cd &lt;repo-folder&gt;
 
@@ -78,6 +78,7 @@ cd frontend
 npm install
 
 npm run dev
+
 
 **5\. Key Results & Domain Impact**
 
