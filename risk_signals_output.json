@@ -1,0 +1,98 @@
+[
+  {
+    "source": "Twitter/X (@MarketWatch)",
+    "headline_or_text": "Silicon Valley Bank faces catastrophic deposit run as $XYZ Bank credit default swaps surge to 10-year highs following severe liquidity shortfall.",
+    "entity_mentioned": "XYZ",
+    "sentiment_score": -0.48,
+    "event_classification": "Credit Event",
+    "impact_score": 10,
+    "trigger_stress_test": true,
+    "geolocation": {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Santa Clara",
+      "latitude": 37.3541,
+      "longitude": -121.9552
+    }
+  },
+  {
+    "source": "Reuters News",
+    "headline_or_text": "Federal Reserve unexpected rate hike of 75 bps causes sharp downturn across global bond yields and sovereign debt markets.",
+    "entity_mentioned": "Federal Reserve",
+    "sentiment_score": -0.62,
+    "event_classification": "Credit Event",
+    "impact_score": 10,
+    "trigger_stress_test": true,
+    "geolocation": {
+      "country": "United States",
+      "country_code": "US",
+      "city": "Washington D.C.",
+      "latitude": 38.9072,
+      "longitude": -77.0369
+    }
+  },
+  {
+    "source": "Bloomberg Terminal",
+    "headline_or_text": "Credit Suisse emergency AT1 bond wipeout triggers European Central Bank scrutiny across Frankfurt and Zurich banking groups.",
+    "entity_mentioned": "Credit Suisse",
+    "sentiment_score": -0.9,
+    "event_classification": "Credit Event",
+    "impact_score": 10,
+    "trigger_stress_test": true,
+    "geolocation": {
+      "country": "Switzerland",
+      "country_code": "CH",
+      "city": "Zurich",
+      "latitude": 47.3769,
+      "longitude": 8.5417
+    }
+  },
+  {
+    "source": "Financial Times",
+    "headline_or_text": "Middle East military escalations in the Red Sea trigger oil supply bottlenecks and global maritime shipping pauses.",
+    "entity_mentioned": "Middle East",
+    "sentiment_score": -0.03,
+    "event_classification": "Geopolitical",
+    "impact_score": 8,
+    "trigger_stress_test": true,
+    "geolocation": {
+      "country": "Red Sea Corridor",
+      "country_code": "RS",
+      "city": "Bab-el-Mandeb",
+      "latitude": 12.5833,
+      "longitude": 43.3333
+    }
+  },
+  {
+    "source": "The Economic Times (India)",
+    "headline_or_text": "Reserve Bank of India warns of unsecured retail credit strain and tightens risk-weighted asset ratios for NBFC wholesale lenders.",
+    "entity_mentioned": "Reserve Bank of India",
+    "sentiment_score": -0.5,
+    "event_classification": "Credit Event",
+    "impact_score": 10,
+    "trigger_stress_test": true,
+    "geolocation": {
+      "country": "India",
+      "country_code": "IN",
+      "city": "Mumbai",
+      "latitude": 19.076,
+      "longitude": 72.8777
+    }
+  },
+  {
+    "source": "Nikkei Asia",
+    "headline_or_text": "Taiwan TSMC partners with Global Automaker to unveil next-generation 2nm semiconductor manufacturing plant ahead of schedule.",
+    "entity_mentioned": "Global Automaker",
+    "sentiment_score": 0.45,
+    "event_classification": "Product Launch",
+    "impact_score": 4,
+    "trigger_stress_test": false,
+    "geolocation": {
+      "country": "Taiwan",
+      "country_code": "TW",
+      "city": "Hsinchu",
+      "latitude": 24.78,
+      "longitude": 120.997
+    }
+  }
+]
