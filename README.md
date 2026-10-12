@@ -72,7 +72,7 @@ python api_server.py
 
 \# 5. In a separate terminal, launch the Streamlit analytical dashboard
 
-streamlit run app.py
+python -m streamlit run app.py
 
 \# 6. In another terminal, set up and run the React frontend
 
